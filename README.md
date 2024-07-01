@@ -1,3 +1,2 @@
-# FirstPythonApp
+# 1st trial with Python
 This is my first python app.
-It is nice.
